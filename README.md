@@ -1,2 +1,1 @@
-# 0dveli.github.io
-Veli个人博客
+0dveli个人博客
